@@ -6,7 +6,11 @@
 
 SnipPop turns saved screenshots into floating previews you can pin, annotate, copy, save, or drag into another app. It is a native Mac screenshot companion built around the screenshots you already take.
 
-[Download & try SnipPop](https://snippop.cc/en/#download) · [User guide](https://snippop.cc/en/guide/) · [Watch the demo](https://youtu.be/2xNPBg-QZcY) · [中文说明](README.zh-CN.md)
+[Download & try SnipPop](https://snippop.cc/en/#download) · [User guide](https://snippop.cc/en/guide/) · [Watch on YouTube](https://youtu.be/2xNPBg-QZcY) · [中文说明](README.zh-CN.md)
+
+## See SnipPop in 30 seconds
+
+https://github.com/user-attachments/assets/d5756921-bd63-4d82-b3e2-d1fe6ab09ee1
 
 ## What this repository is for
 
